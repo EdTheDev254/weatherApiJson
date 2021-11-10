@@ -5,7 +5,8 @@ import requests
 #name
 
 def get_json (city) :
-	
+	#weather key needs updating! 
+
 	weather_key = "76b9baa188dca2b6a27a92c2d09404c8"
 	parameters = {"APPID" :weather_key,"q" :city, "units" :"metric"}
 	url = "http://api.openweathermap.org/data/2.5/weather"
