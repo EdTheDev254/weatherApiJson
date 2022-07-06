@@ -1,3 +1,5 @@
+#This was the first python file for testing the api call
+
 import requests
 
 #make a function to collect the json file 
