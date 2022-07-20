@@ -5,3 +5,8 @@ To start the above,run the main.py file.
 
 # Terminal Use
 For fast usage on the command line,just pass in the name(s) of your specific location(s) as the argument(s)
+
+
+
+https://user-images.githubusercontent.com/86492702/179987903-1af4bb74-db83-4707-9ed0-b1ca90c6929d.mp4
+
